@@ -13,3 +13,5 @@ A Collection of Slides and More from Railsconf 2013
   - [Split Testing For Product Discovery](https://speakerdeck.com/bryanwoods/split-testing-for-product-discovery) - by Bryan Woods
   - [The Magic Tricks of Testing](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf) - by Sandi Metz
   - [Sleeping with the Enemy!](http://georgebrock.github.io/talks/sleeping-with-the-enemy/) - by George Brocklehurst
+  - [Cache = Cash](https://speakerdeck.com/wintermeyer/cache-equals-cash) - by Stefan Wintermeyer
+  - [Of Buyers & Renters](https://speakerdeck.com/sd/of-buyers-and-renters) - by Sebastian Delmont
