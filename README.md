@@ -1,4 +1,4 @@
-A Collection of Slides and More from Railsconf 2013
+Presentation Slides
 ====================
 
   - [Testing HTTP APIs in Ruby - Slides](https://github.com/shaiguitar/ruby_apis_and_clients) - by Shai Rosenfeld 
@@ -15,3 +15,8 @@ A Collection of Slides and More from Railsconf 2013
   - [Sleeping with the Enemy!](http://georgebrock.github.io/talks/sleeping-with-the-enemy/) - by George Brocklehurst
   - [Cache = Cash](https://speakerdeck.com/wintermeyer/cache-equals-cash) - by Stefan Wintermeyer
   - [Of Buyers & Renters](https://speakerdeck.com/sd/of-buyers-and-renters) - by Sebastian Delmont
+
+Workshop Links
+====================
+
+  - Acceptance Testing with Capybara & RSpec [Slides](https://speakerdeck.com/jcasimir/rspec-and-capybara-by-brian-sam-bodden) - [Repo](https://github.com/integrallis/learn-rspec-capybara) - [Jumpstart Tutorial](Open Jumpstart Lab’s tutorial and get started!)
