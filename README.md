@@ -10,4 +10,4 @@ A Collection of Slides and More from Railsconf 2013
   - [Buildling Extractable Libraries in Rails](https://speakerdeck.com/patricksroberts/building-extractable-libraries-in-rail-railsconf) - by Patrick Robertson
   - [Natural Language Processing in Ruby](https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby?utm_source=buffer&utm_medium=facebook&utm_campaign=Buffer:%2BBrandon%20Black%2Bon%2Bfacebook&buffer_share=b4e61) - by Brandon Black
   - [Object-Oriented Lessons for a Service-Oriented World](https://speakerdeck.com/amateurhuman/object-oriented-lessons-for-a-service-oriented-world) - by Chris Kelly
-  
+  - [Split Testing For Product Discovery](https://speakerdeck.com/bryanwoods/split-testing-for-product-discovery) - by Bryan Woods
