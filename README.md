@@ -21,6 +21,9 @@ Presentation Slides
   - [Rails vs the Client Side](https://speakerdeck.com/noelrap/rails-vs-the-client) - by Noel Rappin
   - [Humanity on Rails (Summary w/Links)](http://blog.daniel-azuma.com/archives/287) - by Daniel Azuma
   - [Pry the Good Parts](https://speakerdeck.com/conradirwin/pry-the-good-parts) - by Conrad Irwin
+  - [New Relic Performance Code Kata](http://railsconf13-new-relic-kata.herokuapp.com/#/) - by Sam Goldstein / Ben Weintraub
+  - [DevOps for the Rubyist Soul](https://speakerdeck.com/jtdowney/devops-for-the-rubyist-soul-at-railsconf-2013) - by John Downey
+  - [Your First Rails Pull Request](https://speakerdeck.com/markmcspadden/railsconf-2013-your-first-rails-pull-request) - by Mark McSpadden
 
 Workshop Links
 ====================
