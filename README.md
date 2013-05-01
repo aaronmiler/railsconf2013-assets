@@ -20,6 +20,7 @@ Presentation Slides
   - [An Intervention for Active Record](https://speakerdeck.com/erniemiller/an-intervention-for-activerecord) - by Ernie Miller
   - [Rails vs the Client Side](https://speakerdeck.com/noelrap/rails-vs-the-client) - by Noel Rappin
   - [Humanity on Rails (Summary w/Links)](http://blog.daniel-azuma.com/archives/287) - by Daniel Azuma
+  - [Pry the Good Parts](https://speakerdeck.com/conradirwin/pry-the-good-parts) - by Conrad Irwin
 
 Workshop Links
 ====================
