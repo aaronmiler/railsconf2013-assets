@@ -15,8 +15,19 @@ Presentation Slides
   - [Sleeping with the Enemy!](http://georgebrock.github.io/talks/sleeping-with-the-enemy/) - by George Brocklehurst
   - [Cache = Cash](https://speakerdeck.com/wintermeyer/cache-equals-cash) - by Stefan Wintermeyer
   - [Of Buyers & Renters](https://speakerdeck.com/sd/of-buyers-and-renters) - by Sebastian Delmont
+  - [From Rails to the Webserver to the Browser](https://speakerdeck.com/dabit/from-rails-to-the-webserver-to-the-browser) [Code](https://github.com/dabit/rails-server-browser) - by David Padilla
+  - [Postgres, The Best Tool You're Already Using](http://adamsanderson.github.io/railsconf_2013/) [Code](https://github.com/adamsanderson/railsconf_2013) - by Adam Sanderson
+  - [An Intervention for Active Record](https://speakerdeck.com/erniemiller/an-intervention-for-activerecord) - by Ernie Miller
+  - [Rails vs the Client Side](https://speakerdeck.com/noelrap/rails-vs-the-client) - by Noel Rappin
+  - [Humanity on Rails (Summary w/Links)](http://blog.daniel-azuma.com/archives/287) - by Daniel Azuma
 
 Workshop Links
 ====================
 
   - Acceptance Testing with Capybara & RSpec [Slides](https://speakerdeck.com/jcasimir/rspec-and-capybara-by-brian-sam-bodden) - [Repo](https://github.com/integrallis/learn-rspec-capybara) - [Jumpstart Tutorial](Open Jumpstart Lab’s tutorial and get started!)
+
+
+Video Links
+====================
+
+  - [Railsconf at Confreaks](http://www.confreaks.com/events/railsconf2013)
