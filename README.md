@@ -24,6 +24,10 @@ Presentation Slides
   - [New Relic Performance Code Kata](http://railsconf13-new-relic-kata.herokuapp.com/#/) - by Sam Goldstein / Ben Weintraub
   - [DevOps for the Rubyist Soul](https://speakerdeck.com/jtdowney/devops-for-the-rubyist-soul-at-railsconf-2013) - by John Downey
   - [Your First Rails Pull Request](https://speakerdeck.com/markmcspadden/railsconf-2013-your-first-rails-pull-request) - by Mark McSpadden
+  - [Ruby Motion](http://www.slideshare.net/bsbodden/tdd-withrubymotion) - by Brian Sam-Bodden
+  - [No traffic, no users, no problem!](https://speakerdeck.com/aantix/no-traffic-no-users-no-problem) - by Jim Jones
+  - [Dissecting Ruby with Ruby](https://speakerdeck.com/schneems/dissecting-ruby-with-ruby) - by Richard Schneeman
+  - [Zero-Downtime Payment Platforms](https://speakerdeck.com/rtwomey/railsconf-2013-zero-downtime-payment-platforms) - by Ryan Twomey
 
 Workshop Links
 ====================
