@@ -32,7 +32,7 @@ Presentation Slides
 Workshop Links
 ====================
 
-  - Acceptance Testing with Capybara & RSpec [Slides](https://speakerdeck.com/jcasimir/rspec-and-capybara-by-brian-sam-bodden) - [Repo](https://github.com/integrallis/learn-rspec-capybara) - [Jumpstart Tutorial](Open Jumpstart Lab’s tutorial and get started!)
+  - Acceptance Testing with Capybara & RSpec [Slides](https://speakerdeck.com/jcasimir/rspec-and-capybara-by-brian-sam-bodden) - [Repo](https://github.com/integrallis/learn-rspec-capybara) - [Jumpstart Tutorial](http://tutorials.jumpstartlab.com/topics/capybara/capybara_practice.html)
 
 
 Video Links
