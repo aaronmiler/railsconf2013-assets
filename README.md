@@ -33,11 +33,11 @@ Workshop Links
 ====================
 
   - Acceptance Testing with Capybara & RSpec [Slides](https://speakerdeck.com/jcasimir/rspec-and-capybara-by-brian-sam-bodden) - [Repo](https://github.com/integrallis/learn-rspec-capybara) - [Jumpstart Tutorial](http://tutorials.jumpstartlab.com/topics/capybara/capybara_practice.html)
-  - [Rails is Just Ruby](http://railsconftutorials.com/sessions/rails_is_just_ruby.html) [Slides](https://speakerdeck.com/jwo/rails-is-just-ruby) - [Tutorial](http://railsconftutorials.com/sessions/rails_is_just_ruby.html)
-  - [Crafting Gems](http://railsconftutorials.com/sessions/crafting_gems.html)
-  - [Properly Factored MVC](http://railsconftutorials.com/sessions/factored_mvc.html)
-  - [Testing Complex Systems](http://railsconftutorials.com/sessions/testing_complex_systems.html) - [Project Repo](https://github.com/noelrappin/rails_conf_travel)
-  - [Ruby Libraries Important for Rails](http://railsconftutorials.com/sessions/ruby_libraries_for_rails.html) - [Project Repo](https://github.com/mhartl/ruby-libraries)
+  - [Rails is Just Ruby](http://railsconftutorials.com/2013/sessions/rails_is_just_ruby.html) [Slides](https://speakerdeck.com/jwo/rails-is-just-ruby) - [Tutorial](http://railsconftutorials.com/2013/sessions/rails_is_just_ruby.html)
+  - [Crafting Gems](http://railsconftutorials.com/2013/sessions/crafting_gems.html)
+  - [Properly Factored MVC](http://railsconftutorials.com/2013/sessions/factored_mvc.html)
+  - [Testing Complex Systems](http://railsconftutorials.com/2013/sessions/testing_complex_systems.html) - [Project Repo](https://github.com/noelrappin/rails_conf_travel)
+  - [Ruby Libraries Important for Rails](http://railsconftutorials.com/2013/sessions/ruby_libraries_for_rails.html) - [Project Repo](https://github.com/mhartl/ruby-libraries)
   - How a Request Becomes a Response - [Rails for Zombies](http://railsforzombies.org/levels/1) [Rails for Zombies 2](http://go.codeschool.com/pdxzombies)
 
 
